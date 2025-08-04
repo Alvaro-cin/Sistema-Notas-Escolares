@@ -9,7 +9,7 @@ using namespace std;
 struct Aluno {
   string nome;
   sla;
-  aaa;
+
   string matricula;
   string turma;
 };
